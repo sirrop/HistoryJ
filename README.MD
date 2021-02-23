@@ -1,4 +1,4 @@
-#HistoryJ: History Management API for Java
+# HistoryJ: History Management API for Java
 
 ## What is it?
 
